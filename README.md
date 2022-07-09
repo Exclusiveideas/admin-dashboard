@@ -1,4 +1,4 @@
-## Admin Dashboard
+## E-commerce Admin Dashboard
 ![admin_dashboard_1](https://user-images.githubusercontent.com/76836006/169146809-385810d2-e699-4fcc-894f-ebf904a89efa.JPG)
 
 ![admin_dashboard_3](https://user-images.githubusercontent.com/76836006/178108803-d80f2b03-089b-42be-88fc-5e5a28a5becd.JPG)
@@ -15,7 +15,7 @@ It also have light - dark modes
 4.) Firebase (for cloud services) <br />
 
 ## Setup 
-run ```npm i && npm start``` to download the required dependencies and start the app
+Clone this repository and run ```npm i && npm start``` to download the required dependencies and start the app
 
 ## Live Version
 To view the live version of this admin dashoard, visit [https://admin-dashboard-33f8f.web.app](https://admin-dashboard-33f8f.web.app/)
