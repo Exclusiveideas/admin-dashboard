@@ -9,6 +9,6 @@ This an Admin dashboard of an e-commerce web application. valid pages include ho
 run ```npm i && npm start``` to download the required dependencies and start the app
 
 ## Live Version
-To view the live version of cryptoverse, visit [https://admin-dashboard-33f8f.web.app](https://admin-dashboard-33f8f.web.app/)
+To view the live version of this admin dashoard, visit [https://admin-dashboard-33f8f.web.app](https://admin-dashboard-33f8f.web.app/)
 
 ### Don't forget to star this repository✨✨.
