@@ -39,7 +39,7 @@ const Navbar = () => {
             <ListOutlined />
           </div>
           <div className="item">
-            <img src="" alt="" className='avatar' />
+            <img src="https://cdn.wallpapersafari.com/33/27/0wPzOY.jpg" alt="" className='avatar' />
           </div>
         </div>
       </div>
